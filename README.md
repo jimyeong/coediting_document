@@ -7,4 +7,4 @@ DB: MYSQL, MongoDB
 
 
 ## design plan
-[design plan](./design_plan.md)
+![design plan](./design_plan.png)
